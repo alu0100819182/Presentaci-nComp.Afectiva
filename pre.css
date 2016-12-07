@@ -51,3 +51,10 @@ p {
   background-size: cover;
 }
 
+#imagentres {
+  width: 800px;
+  height: 200px;
+  background-image: url("img/imagen3.jpg");
+  background-size: cover;
+}
+
