@@ -4,7 +4,8 @@
 }
 
 body{
-  background:#191919;color:#eee
+  background:#191919;
+  color:#eee
 }
 
 h1,h2,h3,h4,h5,h6
@@ -18,7 +19,8 @@ h1,h2{
 }
 
 h2{
-  color:#fff;text-shadow:0 0 5px #000
+  color:#fff;
+  text-shadow:0 0 5px #000
 }
 
 h3{
@@ -30,6 +32,7 @@ h3,h4{
 }
 
 h4{
-  font-size:92px;line-height:72px
+  font-size:92px;
+  line-height:72px
 }
 
