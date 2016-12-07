@@ -21,6 +21,13 @@ h2 {
   text-align: center
 }
 
+h3 {
+  font-family: 'Reem Kufi', sans-serif;
+  line-height: 95%;
+  font-size: 020px;
+  margin-right: 10px;
+}
+
 p {
   text-align: center;
   text-shadow: 0 0 2px #000;
@@ -38,8 +45,8 @@ p {
 }
 
 #imagendos {
-  width: 10px;
-  height: 10px;
+  width: 700px;
+  height: 200px;
   background-image: url("img/imagen2.jpg");
   margin-left: 130px
 }
