@@ -97,6 +97,30 @@ p {
   margin-left: 190px;
 }
 
+#imagensiete {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen7.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
+#imagenocho {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen8.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
+#imagennueve {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen9.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
 .encuadernado {
   background-color: #7FFF00;
   margin-left: 50px;
