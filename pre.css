@@ -45,8 +45,9 @@ p {
 }
 
 #imagendos {
-  width: 700px;
+  width: 800px;
   height: 200px;
   background-image: url("img/imagen2.jpg");
-  margin-left: 130px
+  background-size: cover;
 }
+
