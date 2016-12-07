@@ -58,3 +58,10 @@ p {
   background-size: cover;
 }
 
+#imagencuatro {
+  width: 1100px;
+  height: 400px;
+  background-image: url("img/imagen4.jpg");
+  background-size: cover;
+}
+
