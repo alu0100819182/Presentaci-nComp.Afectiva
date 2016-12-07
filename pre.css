@@ -81,6 +81,22 @@ p {
   margin-left: 190px;
 }
 
+#imagencinco {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen5.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
+#imagenseis {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen6.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
 .encuadernado {
   background-color: #7FFF00;
   margin-left: 50px;
