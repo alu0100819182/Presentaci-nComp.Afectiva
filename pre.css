@@ -9,10 +9,12 @@ body{
 
 h1,h2,h3,h4,h5,h6
 {
-  font-family:Accidental Presidency;line-height:95%}
+  font-family: 'Reem Kufi', sans-serif;
+  line-height:95%
+}
 
 h1,h2{
-  font-size:164px
+  font-size:25px
 }
 
 h2{
@@ -31,6 +33,3 @@ h4{
   font-size:92px;line-height:72px
 }
 
-.primaria, .secundaria {
-  font-family: 'Reem Kufi', sans-serif;
-}
