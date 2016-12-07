@@ -45,15 +45,15 @@ p {
 }
 
 #imagendos {
-  width: 800px;
+  width: 900px;
   height: 200px;
   background-image: url("img/imagen2.jpg");
   background-size: cover;
 }
 
 #imagentres {
-  width: 800px;
-  height: 200px;
+  width: 1100px;
+  height: 400px;
   background-image: url("img/imagen3.jpg");
   background-size: cover;
 }
