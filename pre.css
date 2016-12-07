@@ -8,36 +8,16 @@ body{
   color:#eee
 }
 
-h1,h2,h3,h4,h5,h6
-{
+h1 {
   font-family: 'Reem Kufi', sans-serif;
-  line-height:95%
-}
-
-h1,h2{
+  line-height:95%;
   font-size:25px
 }
 
-h2{
+span{
   color:#fff;
   text-shadow:0 0 5px #000
 }
 
-h3{
-  font-size:112px
-}
 
-h3,h4{
-  color:#7d7d7d
-}
-
-h4{
-  font-size:92px;
-  line-height:72px
-}
-
-first {
-  width: 200px;
-  height: 200px
-}
 
