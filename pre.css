@@ -136,19 +136,19 @@ p {
 }
 
 #imagendoce {
-  width: 500px;
-  height: 250px;
+  width: 700px;
+  height: 400px;
   background-image: url("img/imagen12.jpg");
   background-size: cover;
-  margin-left: 190px;
 }
 
 #imagentrece {
-  width: 500px;
-  height: 250px;
+  width: 700px;
+  height: 350px;
   background-image: url("img/imagen13.jpg");
   background-size: cover;
-  margin-left: 190px;
+  margin-top: 20px;
+
 }
 
 .encuadernado {
@@ -180,4 +180,9 @@ p {
 
 #info {
   margin-left: 40px;
+}
+
+h6 {
+  font-size: 20px;
+  text-align: center
 }
