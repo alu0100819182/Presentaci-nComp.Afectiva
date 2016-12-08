@@ -135,6 +135,22 @@ p {
   margin-left: 190px;
 }
 
+#imagendoce {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen12.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
+#imagentrece {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen13.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
 .encuadernado {
   background-color: #7FFF00;
   margin-left: 50px;
