@@ -119,6 +119,22 @@ p {
   margin-left: 190px;
 }
 
+#imagendiez {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen10.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
+#imagenonce {
+  width: 500px;
+  height: 250px;
+  background-image: url("img/imagen11.jpg");
+  background-size: cover;
+  margin-left: 190px;
+}
+
 .encuadernado {
   background-color: #7FFF00;
   margin-left: 50px;
